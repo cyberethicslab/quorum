@@ -30,3 +30,10 @@ make all
 export PATH=$(pwd)/build/bin:$PATH
 ```
 
+### Useful links ###
+
+#### Ethereum JavaScript Console ####
+https://geth.ethereum.org/docs/interface/javascript-console
+
+#### Interact with nodes ####
+https://geth.ethereum.org/docs/interface/peer-to-peer

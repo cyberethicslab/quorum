@@ -1,0 +1,192 @@
+INFO [10-06|15:18:26.008] Starting Geth on Ethereum mainnet... 
+INFO [10-06|15:18:26.010] Bumping default cache on mainnet         provided=1024 updated=4096
+WARN [10-06|15:18:26.012] Sanitizing cache to Go's GC limits       provided=4096 updated=1365
+DEBUG[10-06|15:18:26.012] Sanitizing Go's GC trigger               percent=75
+INFO [10-06|15:18:26.020] Maximum peer count                       ETH=50 LES=0 total=50
+DEBUG[10-06|15:18:26.031] FS scan times                            list="415.387µs" set="185.878µs" diff="8.342µs"
+TRACE[10-06|15:18:26.032] Started watching keystore folder         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/keystore
+TRACE[10-06|15:18:26.033] Handled keystore changes                 time=1.932057ms
+INFO [10-06|15:18:26.071] Set global gas cap                       cap=25000000
+INFO [10-06|15:18:26.071] Allocated trie memory caches             clean=340.00MiB dirty=341.00MiB
+INFO [10-06|15:18:26.074] Allocated cache and file handles         database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/chaindata cache=682.00MiB handles=5120
+DEBUG[10-06|15:18:26.183] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/chaindata/ancient table=headers items=0 size=0.00B
+DEBUG[10-06|15:18:26.200] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/chaindata/ancient table=hashes  items=0 size=0.00B
+DEBUG[10-06|15:18:26.215] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/chaindata/ancient table=bodies  items=0 size=0.00B
+DEBUG[10-06|15:18:26.236] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/chaindata/ancient table=receipts items=0 size=0.00B
+DEBUG[10-06|15:18:26.271] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/chaindata/ancient table=diffs    items=0 size=0.00B
+INFO [10-06|15:18:26.271] Opened ancient database                  database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/chaindata/ancient
+DEBUG[10-06|15:18:26.273] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+INFO [10-06|15:18:26.278] Initialised chain configuration          config="{ChainID: 10 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: 0 Petersburg: <nil> Istanbul: <nil>, Muir Glacier: <nil>, YOLO v1: <nil>, Engine: unknown}"
+INFO [10-06|15:18:26.278] Disk storage enabled for ethash caches   dir=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/ethash count=3
+INFO [10-06|15:18:26.279] Disk storage enabled for ethash DAGs     dir=/Users/alessiobianchini/Library/Ethash count=2
+INFO [10-06|15:18:26.279] Initialising Ethereum protocol           versions="[65 64 63]" network=31337 dbversion=<nil>
+WARN [10-06|15:18:26.279] Upgrade blockchain database version      from=<nil> to=8
+INFO [10-06|15:18:26.287] Loaded most recent local header          number=0 hash="ec3115…2a1505" td=0 age=51y6mo1d
+INFO [10-06|15:18:26.287] Loaded most recent local full block      number=0 hash="ec3115…2a1505" td=0 age=51y6mo1d
+INFO [10-06|15:18:26.287] Loaded most recent local fast block      number=0 hash="ec3115…2a1505" td=0 age=51y6mo1d
+DEBUG[10-06|15:18:26.290] Reinjecting stale transactions           count=0
+INFO [10-06|15:18:26.291] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-06|15:18:26.329] Allocated fast sync bloom                size=681.00MiB
+INFO [10-06|15:18:26.332] Initialized fast sync bloom              items=1 errorrate=0.000 elapsed="195.273µs"
+DEBUG[10-06|15:18:26.334] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-06|15:18:26.336] Starting peer-to-peer node               instance=Geth/v1.9.22-stable/darwin-amd64/go1.15.2
+DEBUG[10-06|15:18:26.381] TCP listener up                          addr=[::]:21000
+INFO [10-06|15:18:26.382] New local node record                    seq=1 id=01c6d9a4766ad26b ip=127.0.0.1 udp=0 tcp=21000
+INFO [10-06|15:18:26.382] Started P2P networking                   self="enode://a32f04eadc4d18eca8d21ef7c29957b4b777b31d66f03a847aa60b018ae3ef06fbe4bb06899e6260e2795e2533b774b95444f5b99db8c21f045ba6ce6cca2f5f@127.0.0.1:21000?discport=0"
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=admin
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=admin
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=debug
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=web3
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=txpool
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=debug
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=debug
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=personal
+DEBUG[10-06|15:18:26.384] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=ethash
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=miner
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=eth
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=admin
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=debug
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=debug
+DEBUG[10-06|15:18:26.385] IPC registered                           namespace=net
+INFO [10-06|15:18:26.385] IPC endpoint opened                      url=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth.ipc
+INFO [10-06|15:18:26.388] HTTP server started                      endpoint=[::]:22000 cors= vhosts=localhost
+DEBUG[10-06|15:18:28.486] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|15:18:46.338] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:19:06.338] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:19:26.274] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:19:26.338] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:19:46.339] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:20:06.339] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:20:26.280] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:20:26.342] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:20:46.343] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:21:06.344] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:21:26.281] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:21:26.344] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:21:46.346] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:22:06.350] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:22:26.284] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:22:26.351] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:22:46.355] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:23:06.356] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:23:26.285] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:23:26.360] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:23:46.366] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:24:06.373] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:24:26.286] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:24:26.380] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:24:46.385] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:25:06.387] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:25:26.290] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:25:26.393] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:25:46.393] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:26:06.396] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:26:26.293] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:26:26.403] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|15:26:34.372] Accepted RPC connection                  conn=
+DEBUG[10-06|15:26:34.515] Served rpc_modules                       reqid=1 t="912.64µs"
+DEBUG[10-06|15:26:34.531] Served web3_clientVersion                reqid=2 t="71.182µs"
+INFO [10-06|15:26:34.531] Etherbase automatically configured       address=0x732a88BFBDeCEb55535489FB358BAE854CA492FE
+DEBUG[10-06|15:26:34.535] Served eth_coinbase                      reqid=3 t=4.161392ms
+DEBUG[10-06|15:26:34.539] Served eth_blockNumber                   reqid=4 t=3.249765ms
+DEBUG[10-06|15:26:34.544] Served eth_blockNumber                   reqid=5 t="86.118µs"
+DEBUG[10-06|15:26:34.551] Served eth_getBlockByNumber              reqid=6 t=4.150077ms
+DEBUG[10-06|15:26:34.556] Served admin_datadir                     reqid=7 t="79.155µs"
+DEBUG[10-06|15:26:34.557] Served rpc_modules                       reqid=8 t="85.658µs"
+DEBUG[10-06|15:26:46.408] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:27:06.411] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:27:26.296] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:27:26.417] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:27:45.135] RPC connection read error                err=EOF
+DEBUG[10-06|15:27:46.422] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|15:28:00.494] Accepted connection                      addr=127.0.0.1:54831
+TRACE[10-06|15:28:05.487] Failed RLPx handshake                    addr=127.0.0.1:54831 conn=inbound err="unexpected EOF"
+DEBUG[10-06|15:28:06.428] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:28:10.659] Served rpc_modules                       conn=127.0.0.1:54834 reqid=1 t="198.21µs"
+DEBUG[10-06|15:28:10.673] Served web3_clientVersion                conn=127.0.0.1:54834 reqid=2 t="74.495µs"
+DEBUG[10-06|15:28:10.674] Served eth_coinbase                      conn=127.0.0.1:54834 reqid=3 t="89.662µs"
+DEBUG[10-06|15:28:10.676] Served eth_blockNumber                   conn=127.0.0.1:54834 reqid=4 t="122.838µs"
+DEBUG[10-06|15:28:10.684] Served eth_blockNumber                   conn=127.0.0.1:54834 reqid=5 t="59.595µs"
+DEBUG[10-06|15:28:10.686] Served eth_getBlockByNumber              conn=127.0.0.1:54834 reqid=6 t="694.76µs"
+DEBUG[10-06|15:28:10.689] Served admin_datadir                     conn=127.0.0.1:54834 reqid=7 t="101.872µs"
+DEBUG[10-06|15:28:10.691] Served rpc_modules                       conn=127.0.0.1:54834 reqid=8 t="102.998µs"
+DEBUG[10-06|15:28:26.299] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+TRACE[10-06|15:28:26.381] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|15:28:26.381] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|15:28:26.429] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:28:46.431] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:29:06.436] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:29:26.302] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:29:26.443] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:29:46.448] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:30:06.455] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:30:26.304] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:30:26.458] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:30:46.461] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:31:06.465] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:31:26.307] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:31:26.472] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:31:46.477] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:32:06.478] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:32:26.312] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:32:26.478] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:32:46.481] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:33:06.483] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:33:26.319] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:33:26.487] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:33:46.488] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:33:48.660] Served rpc_modules                       conn=127.0.0.1:54880 reqid=1 t="107.512µs"
+DEBUG[10-06|15:33:48.667] Served web3_clientVersion                conn=127.0.0.1:54880 reqid=2 t="40.525µs"
+DEBUG[10-06|15:33:48.668] Served eth_coinbase                      conn=127.0.0.1:54880 reqid=3 t="41.98µs"
+DEBUG[10-06|15:33:48.670] Served eth_blockNumber                   conn=127.0.0.1:54880 reqid=4 t="37.673µs"
+DEBUG[10-06|15:33:48.671] Served eth_blockNumber                   conn=127.0.0.1:54880 reqid=5 t="27.764µs"
+DEBUG[10-06|15:33:48.672] Served eth_getBlockByNumber              conn=127.0.0.1:54880 reqid=6 t="242.287µs"
+DEBUG[10-06|15:33:48.674] Served admin_datadir                     conn=127.0.0.1:54880 reqid=7 t="29.444µs"
+DEBUG[10-06|15:33:48.674] Served rpc_modules                       conn=127.0.0.1:54880 reqid=8 t="68.996µs"
+DEBUG[10-06|15:34:06.493] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:34:26.323] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:34:26.499] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:34:46.504] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:35:06.510] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:35:26.330] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:35:26.516] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:35:46.519] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:35:49.703] Served rpc_modules                       conn=127.0.0.1:54890 reqid=1 t="41.536µs"
+DEBUG[10-06|15:35:49.709] Served web3_clientVersion                conn=127.0.0.1:54890 reqid=2 t="36.366µs"
+DEBUG[10-06|15:35:49.710] Served eth_coinbase                      conn=127.0.0.1:54890 reqid=3 t="68.113µs"
+DEBUG[10-06|15:35:49.715] Served eth_blockNumber                   conn=127.0.0.1:54890 reqid=4 t="40.668µs"
+DEBUG[10-06|15:35:49.715] Served eth_blockNumber                   conn=127.0.0.1:54890 reqid=5 t="35.145µs"
+DEBUG[10-06|15:35:49.717] Served eth_getBlockByNumber              conn=127.0.0.1:54890 reqid=6 t="367.456µs"
+DEBUG[10-06|15:35:49.724] Served admin_datadir                     conn=127.0.0.1:54890 reqid=7 t="37.169µs"
+DEBUG[10-06|15:35:49.725] Served rpc_modules                       conn=127.0.0.1:54890 reqid=8 t="51.065µs"
+DEBUG[10-06|15:35:55.192] Served net_listening                     conn=127.0.0.1:54890 reqid=9 t="90.598µs"
+DEBUG[10-06|15:36:06.527] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:36:08.383] Served net_peerCount                     conn=127.0.0.1:54890 reqid=10 t=2.345552ms
+DEBUG[10-06|15:36:26.338] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:36:26.530] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:36:43.875] Served admin_peers                       conn=127.0.0.1:54890 reqid=11 t=3.276692ms
+DEBUG[10-06|15:36:46.537] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:37:06.542] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:37:06.622] Served admin_nodeInfo                    conn=127.0.0.1:54890 reqid=12 t=3.734343ms
+DEBUG[10-06|15:37:26.339] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:37:26.543] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:37:46.545] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:38:06.551] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:38:26.342] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+TRACE[10-06|15:38:26.382] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|15:38:26.382] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|15:38:26.553] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:38:46.553] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:39:06.557] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:39:26.345] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:39:26.562] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:39:46.564] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:40:06.565] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
