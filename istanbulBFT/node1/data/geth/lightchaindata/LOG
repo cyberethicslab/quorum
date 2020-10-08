@@ -1,0 +1,8 @@
+=============== Oct 8, 2020 (CEST) ===============
+16:14:31.021243 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:14:31.047209 db@open opening
+16:14:31.051604 version@stat F·[] S·0B[] Sc·[]
+16:14:31.063717 db@janitor F·2 G·0
+16:14:31.063786 db@open done T·12.824908ms
+16:14:31.069720 db@close closing
+16:14:31.069894 db@close done T·171.768µs

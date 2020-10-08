@@ -1,2 +1,6 @@
 1node-example/private.txt
 1node-example/node.log
+2nodes-example/private.txt
+2nodes-example/old
+istanbulBFT/instanbul-tools
+istanbulBFT/private.txt

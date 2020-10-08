@@ -1,0 +1,82 @@
+appending output to nohup.out
+flag provided but not defined: -istanbul.blockperiod
+appending output to nohup.out
+flag provided but not defined: -istanbul.blockperiod
+appending output to nohup.out
+flag provided but not defined: -emitcheckpoints
+appending output to nohup.out
+DEBUG[10-08|16:22:20.961] Sanitizing Go's GC trigger               percent=100
+INFO [10-08|16:22:20.966] Maximum peer count                       ETH=50 LES=0 total=50
+WARN [10-08|16:22:20.968] The flag --rpc is deprecated and will be removed in the future, please use --http 
+WARN [10-08|16:22:20.968] The flag --rpcaddr is deprecated and will be removed in the future, please use --http.addr 
+WARN [10-08|16:22:20.968] The flag --rpcport is deprecated and will be removed in the future, please use --http.port 
+WARN [10-08|16:22:20.968] The flag --rpcapi is deprecated and will be removed in the future, please use --http.api 
+DEBUG[10-08|16:22:20.974] FS scan times                            list="316.412µs" set="18.23µs" diff="8.37µs"
+TRACE[10-08|16:22:20.977] Handled keystore changes                 time=3.080835ms
+TRACE[10-08|16:22:20.979] Started watching keystore folder         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/keystore
+WARN [10-08|16:22:21.018] Found deprecated node list file /Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/static-nodes.json, please use the TOML config file instead. 
+INFO [10-08|16:22:21.019] Set global gas cap                       cap=25000000
+INFO [10-08|16:22:21.019] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
+INFO [10-08|16:22:21.023] Allocated cache and file handles         database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth/chaindata cache=512.00MiB handles=5120
+DEBUG[10-08|16:22:21.215] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth/chaindata/ancient table=diffs items=0 size=0.00B
+DEBUG[10-08|16:22:21.264] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth/chaindata/ancient table=headers items=0 size=0.00B
+DEBUG[10-08|16:22:21.311] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth/chaindata/ancient table=hashes  items=0 size=0.00B
+DEBUG[10-08|16:22:21.381] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth/chaindata/ancient table=bodies  items=0 size=0.00B
+DEBUG[10-08|16:22:21.426] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth/chaindata/ancient table=receipts items=0 size=0.00B
+INFO [10-08|16:22:21.433] Opened ancient database                  database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth/chaindata/ancient
+DEBUG[10-08|16:22:21.449] Current full block not old enough        number=0 hash="e92b3e…276935" delay=90000
+INFO [10-08|16:22:21.460] Initialised chain configuration          config="{ChainID: 10 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: 0 Petersburg: <nil> Istanbul: <nil>, Muir Glacier: <nil>, YOLO v1: <nil>, Engine: unknown}"
+INFO [10-08|16:22:21.462] Disk storage enabled for ethash caches   dir=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth/ethash count=3
+INFO [10-08|16:22:21.462] Disk storage enabled for ethash DAGs     dir=/Users/alessiobianchini/Library/Ethash count=2
+INFO [10-08|16:22:21.462] Initialising Ethereum protocol           versions="[65 64 63]" network=10 dbversion=<nil>
+WARN [10-08|16:22:21.462] Upgrade blockchain database version      from=<nil> to=8
+INFO [10-08|16:22:21.480] Loaded most recent local header          number=0 hash="e92b3e…276935" td=1 age=45m48s
+INFO [10-08|16:22:21.480] Loaded most recent local full block      number=0 hash="e92b3e…276935" td=1 age=45m48s
+INFO [10-08|16:22:21.481] Loaded most recent local fast block      number=0 hash="e92b3e…276935" td=1 age=45m48s
+DEBUG[10-08|16:22:21.487] Reinjecting stale transactions           count=0
+INFO [10-08|16:22:21.488] Regenerated local transaction journal    transactions=0 accounts=0
+DEBUG[10-08|16:22:21.491] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-08|16:22:21.492] Starting peer-to-peer node               instance=Geth/v1.9.22-stable/darwin-amd64/go1.15.2
+TRACE[10-08|16:22:21.613] Adding static node                       id=2b07a911c51a0408 ip=127.0.0.1 added=true
+TRACE[10-08|16:22:21.613] Starting p2p dial                        id=2b07a911c51a0408 ip=127.0.0.1 flag=staticdial
+DEBUG[10-08|16:22:21.613] TCP listener up                          addr=[::]:30302
+TRACE[10-08|16:22:21.613] Adding static node                       id=0a7d604603626fe4 ip=127.0.0.1 added=true
+TRACE[10-08|16:22:21.613] Starting p2p dial                        id=0a7d604603626fe4 ip=127.0.0.1 flag=staticdial
+TRACE[10-08|16:22:21.613] Adding static node                       id=44cf1ca8bf61cab4 ip=127.0.0.1 added=true
+INFO [10-08|16:22:21.614] New local node record                    seq=1 id=44cf1ca8bf61cab4 ip=127.0.0.1 udp=0 tcp=30302
+INFO [10-08|16:22:21.614] Started P2P networking                   self="enode://69073261aac331182b637c1c434f0c7e7dcd9fc03fd082ec8c863ba9600b3f35925a874b566316498c764ebca5d75e04ffd496092b0889182af6d3a4ae2931d4@127.0.0.1:30302?discport=0"
+TRACE[10-08|16:22:21.617] Accepted connection                      addr=127.0.0.1:53499
+TRACE[10-08|16:22:21.621] Dial error                               id=2b07a911c51a0408 addr=127.0.0.1:30300 conn=staticdial err="connect: connection refused"
+TRACE[10-08|16:22:21.623] Accepted connection                      addr=127.0.0.1:53503
+DEBUG[10-08|16:22:21.618] IPC registered                           namespace=admin
+DEBUG[10-08|16:22:21.624] IPC registered                           namespace=admin
+DEBUG[10-08|16:22:21.624] IPC registered                           namespace=debug
+DEBUG[10-08|16:22:21.624] IPC registered                           namespace=web3
+DEBUG[10-08|16:22:21.624] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.624] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.624] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.624] IPC registered                           namespace=txpool
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=debug
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=debug
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=personal
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=ethash
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=miner
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=eth
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=admin
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=debug
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=debug
+DEBUG[10-08|16:22:21.625] IPC registered                           namespace=net
+DEBUG[10-08|16:22:21.627] RPC server shutting down 
+DEBUG[10-08|16:22:21.629] Read error                               err="accept tcp [::]:30302: use of closed network connection"
+TRACE[10-08|16:22:21.629] P2P networking is spinning down 
+TRACE[10-08|16:22:21.630] Rejected peer                            id=0a7d604603626fe4 addr=127.0.0.1:53499 conn=inbound    err="server stopped"
+TRACE[10-08|16:22:21.630] Rejected peer                            id=0a7d604603626fe4 addr=127.0.0.1:30301 conn=staticdial err="server stopped"
+TRACE[10-08|16:22:21.631] Failed p2p handshake                     id=2b07a911c51a0408 addr=127.0.0.1:53503 conn=inbound    err="read tcp 127.0.0.1:30302->127.0.0.1:53503: read: connection reset by peer"
+DEBUG[10-08|16:22:23.717] Couldn't add port mapping                proto=tcp extport=30302 intport=30302 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-08|16:22:23.721] Deleting port mapping                    proto=tcp extport=30302 intport=30302 interface="UPnP or NAT-PMP"
+Fatal: Error starting protocol stack: listen unix /Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node2/data/geth.ipc: bind: invalid argument

@@ -190,3 +190,1593 @@ DEBUG[10-06|15:39:26.345] Current full block not old enough        number=0 hash
 DEBUG[10-06|15:39:26.562] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
 DEBUG[10-06|15:39:46.564] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
 DEBUG[10-06|15:40:06.565] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:40:26.348] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:40:26.572] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:40:46.574] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:41:06.574] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:41:26.349] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:41:26.580] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:41:46.584] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:42:06.585] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:42:26.351] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:42:26.591] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:42:46.593] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:43:06.595] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:43:26.352] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:43:26.601] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:43:46.601] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:44:06.606] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:44:26.352] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:44:26.613] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:44:46.618] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:45:06.624] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:45:26.355] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:45:26.629] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:45:46.635] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:46:06.637] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:46:26.359] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:46:26.639] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:46:46.642] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:47:06.648] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:47:26.363] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:47:26.653] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:47:46.658] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:48:06.663] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:48:26.363] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+TRACE[10-06|15:48:26.383] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|15:48:26.383] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|15:48:26.663] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:48:46.664] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:49:06.666] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:49:26.369] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:49:26.669] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:49:46.674] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:50:06.680] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:50:26.374] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:50:26.687] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:50:46.689] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:51:06.689] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:51:26.375] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:51:26.693] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:51:46.697] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:52:06.699] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:52:26.381] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:52:26.705] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:52:46.708] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:53:06.714] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:53:26.382] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:53:26.716] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:53:46.717] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:54:06.720] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:54:26.383] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:54:26.725] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:54:46.732] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:55:06.736] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:55:26.383] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:55:26.737] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:55:46.737] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:56:06.738] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:56:26.384] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:56:26.741] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:56:46.742] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:57:06.746] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:57:26.385] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:57:26.746] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:57:46.747] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:58:06.749] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:58:26.534] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+TRACE[10-06|15:58:26.535] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|15:58:26.566] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|15:58:26.758] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:58:46.759] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:59:06.764] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:59:26.566] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|15:59:26.766] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|15:59:46.769] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:00:06.772] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:00:26.572] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:00:26.772] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:00:46.778] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:01:06.779] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:01:26.576] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:01:26.790] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:01:46.794] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:02:06.797] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:02:26.582] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:02:26.801] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:02:46.802] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:03:06.806] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:03:26.584] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:03:26.811] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:03:46.813] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:04:06.817] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:04:26.588] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:04:26.819] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:04:46.820] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:05:06.823] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:05:26.590] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:05:26.826] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:05:46.827] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:06:06.831] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:06:26.591] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:06:26.832] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:06:46.832] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:07:06.834] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:07:26.593] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:07:26.835] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:07:46.836] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:08:06.837] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|16:08:26.569] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|16:08:26.569] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|16:08:26.595] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:08:26.842] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:08:46.843] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:09:06.843] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:09:26.595] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:09:26.845] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:09:46.857] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:10:06.871] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:10:26.603] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:10:26.875] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:10:46.877] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:11:06.880] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:11:26.607] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:11:26.884] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:11:46.889] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:12:06.889] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:12:26.614] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:12:26.894] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:12:46.896] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:13:06.899] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:13:26.619] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:13:26.900] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:13:46.905] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:14:06.907] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:14:26.622] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:14:26.913] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:14:46.919] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:15:06.924] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:15:26.623] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:15:26.929] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:15:46.935] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:16:06.940] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:16:26.624] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:16:26.941] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:16:46.946] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:17:06.951] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:17:26.630] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:17:26.956] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:17:46.961] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:18:06.962] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-06|16:18:26.295] Writing clean trie cache to disk         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache threads=1
+INFO [10-06|16:18:26.296] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-06|16:18:26.309] Persisted the clean trie cache           path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache elapsed=13.303ms
+TRACE[10-06|16:18:26.577] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|16:18:26.577] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|16:18:26.640] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:18:26.962] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:19:52.174] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:20:12.176] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:20:31.849] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:20:32.181] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:20:52.184] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:21:12.190] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:21:31.851] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:21:32.195] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:21:52.202] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:22:12.207] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:22:31.854] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:22:32.208] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:22:52.209] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:27:09.964] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:27:29.613] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:27:29.971] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:27:49.971] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:28:09.972] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:28:29.615] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:28:29.981] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:28:49.983] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:29:09.986] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:29:29.619] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:29:29.987] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:29:49.989] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:30:09.996] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:30:29.623] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:30:30.000] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:30:50.006] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:31:10.008] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:31:29.624] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:31:30.015] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:31:50.020] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:32:10.027] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:32:29.628] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:32:30.031] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:32:50.033] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:33:10.040] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|16:33:29.537] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|16:33:29.541] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|16:33:29.631] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:33:30.041] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:33:50.042] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:34:10.047] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:34:29.634] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:34:30.049] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:34:50.049] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:35:10.054] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:35:29.640] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:35:30.061] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:35:50.063] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:36:10.067] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:36:29.641] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:36:30.070] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:36:50.070] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:37:10.072] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:37:29.646] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:37:30.073] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:37:50.076] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:38:10.080] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:38:29.652] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:38:30.084] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:38:50.087] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:39:10.093] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:39:29.655] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:39:30.101] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:39:50.104] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:40:10.107] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:40:29.661] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:40:30.112] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:40:50.115] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:41:10.118] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:41:29.661] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:41:30.125] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:41:50.126] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:42:10.128] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:42:29.664] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:42:30.129] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:42:50.131] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:43:10.134] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|16:43:29.545] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|16:43:29.547] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|16:43:29.668] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:43:30.137] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:43:50.153] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:44:10.165] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:44:29.669] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:44:30.168] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:44:50.173] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:45:10.180] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:45:29.675] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:45:30.183] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:45:50.185] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:46:10.188] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:46:29.685] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:46:30.190] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:46:50.191] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:47:10.194] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:47:29.695] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:47:30.198] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:47:50.200] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:48:10.208] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:48:29.699] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:48:30.212] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:48:50.217] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:49:10.219] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:49:29.703] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:49:30.222] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:49:50.222] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:50:10.223] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:50:29.707] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:50:30.233] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:50:50.234] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:51:10.237] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:51:29.714] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:51:30.244] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:51:50.250] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:52:10.253] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:52:29.723] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:52:30.259] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:52:50.264] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:53:10.267] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|16:53:29.551] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|16:53:29.554] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|16:53:29.728] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:53:30.268] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:53:50.270] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:54:10.272] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:54:29.728] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:54:30.276] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:54:50.277] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:55:10.278] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:55:29.735] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:55:30.278] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:55:50.281] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:56:10.288] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:56:29.747] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:56:30.292] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:56:50.293] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:57:10.300] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:57:29.749] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:57:30.302] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:57:50.305] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:58:10.308] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:58:29.751] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:58:30.315] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:58:50.316] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:59:10.322] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:59:29.757] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|16:59:30.324] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|16:59:50.328] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:00:10.331] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:00:29.761] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:00:30.331] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:00:50.335] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:01:10.335] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:01:29.763] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:01:30.338] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:01:50.339] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:02:10.343] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:02:29.763] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:02:30.343] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:02:50.344] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:03:10.346] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|17:03:29.557] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|17:03:29.559] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|17:03:29.769] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:03:30.352] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:03:50.353] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:04:10.356] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:04:29.770] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:04:30.356] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:04:50.359] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:05:10.360] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:05:29.773] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:05:30.364] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:05:50.368] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:06:10.371] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:06:29.774] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:06:30.372] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:06:50.377] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:07:10.381] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:07:29.777] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:07:30.386] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:07:50.386] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:08:10.389] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:08:29.781] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:08:30.394] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:08:50.395] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:09:10.400] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:09:29.785] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:09:30.401] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:09:50.409] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:10:10.413] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:10:29.789] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:10:30.415] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:10:50.420] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:11:10.426] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:11:29.793] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:11:30.430] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:11:50.446] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:12:10.450] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:12:29.795] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:12:30.457] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:12:50.460] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:13:10.467] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|17:13:29.561] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|17:13:29.564] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|17:13:29.795] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:13:30.469] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:13:50.473] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:14:10.477] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:14:29.796] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:14:30.483] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:14:50.485] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:15:10.488] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:15:29.802] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:15:30.494] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:15:50.497] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:16:10.505] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:16:29.809] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:16:30.514] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:16:50.515] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:17:10.518] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:17:29.816] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:17:30.521] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:17:50.522] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:18:10.523] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:18:29.819] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:18:30.524] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:18:50.528] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:19:10.531] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:19:29.822] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:19:30.539] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:19:50.544] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:20:10.550] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:20:29.824] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:20:30.556] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:20:50.558] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:21:10.566] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:21:29.828] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:21:30.567] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:21:50.572] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:22:10.577] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:22:29.833] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:22:30.579] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:22:50.580] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:23:10.584] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-06|17:23:29.251] Writing clean trie cache to disk         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache threads=1
+INFO [10-06|17:23:29.257] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-06|17:23:29.275] Persisted the clean trie cache           path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache elapsed=22.199ms
+TRACE[10-06|17:23:29.564] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|17:23:29.565] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|17:23:29.840] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:23:30.588] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:23:50.588] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:24:10.588] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:24:29.841] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:24:30.590] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:24:50.595] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:25:10.596] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:25:29.843] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:25:30.606] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:25:50.612] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:59:28.456] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|17:59:47.687] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|17:59:48.457] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:00:08.459] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:00:28.463] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:00:47.688] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:00:48.465] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:01:08.468] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:01:28.474] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:01:47.691] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:01:48.477] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:02:08.482] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:02:28.486] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:02:47.695] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:02:48.488] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:03:08.491] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:03:28.492] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:03:47.699] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:03:48.494] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:04:08.498] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:04:28.501] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:04:47.704] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:04:48.505] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:05:08.510] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:05:28.515] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:05:47.706] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:05:48.516] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:06:08.518] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:06:28.521] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|18:06:47.413] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|18:06:47.416] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|18:06:47.711] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:06:48.527] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:07:08.532] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:07:28.535] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:07:47.713] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:07:48.540] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:08:08.546] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:08:28.550] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:08:47.715] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:08:48.552] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:09:08.554] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:09:28.562] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:09:47.715] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:09:48.564] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:10:08.568] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:10:28.569] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:10:47.720] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:10:48.574] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:11:08.577] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:11:28.581] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:11:47.723] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:11:48.585] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:12:08.587] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:12:28.589] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:12:47.729] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:12:48.594] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:13:08.595] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:13:28.600] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:13:47.730] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:13:48.606] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:14:08.609] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:14:28.613] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:14:47.736] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:14:48.619] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:15:08.623] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:15:28.626] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:15:47.738] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:15:48.628] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:16:08.634] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:16:28.637] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|18:16:47.416] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|18:16:47.417] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|18:16:47.738] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:16:48.639] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:17:08.643] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:17:28.647] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:17:47.741] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:17:48.652] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:18:08.653] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:18:28.658] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:18:47.744] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:18:48.662] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:19:08.667] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:19:28.673] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:19:47.746] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:19:48.676] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:20:08.677] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:20:28.678] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:20:47.747] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:20:48.681] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:21:08.682] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:21:28.690] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:21:47.748] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:21:48.692] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:22:08.697] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:22:28.697] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:22:47.754] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:22:48.700] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:23:08.705] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:23:28.711] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:23:47.758] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:23:48.716] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:24:08.721] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:24:28.732] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:24:47.769] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:24:48.735] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:26:13.539] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:26:33.541] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:26:52.574] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:26:53.543] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:27:13.545] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:27:33.550] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|18:27:52.225] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|18:27:52.225] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|18:27:52.576] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:27:53.551] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:28:13.557] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:28:33.559] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:28:52.581] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:28:53.562] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:29:13.567] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:29:33.573] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:29:52.587] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:29:53.578] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:30:13.584] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:30:33.589] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:30:52.592] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:30:53.594] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:31:13.599] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:31:33.603] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:31:52.596] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:31:53.606] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:32:13.610] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:32:33.613] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:32:52.601] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:32:53.617] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:33:13.617] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:33:33.621] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:33:52.605] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:33:53.622] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:34:13.622] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:34:33.627] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:34:52.606] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:34:53.628] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:35:13.630] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:35:33.635] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:35:52.610] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:35:53.639] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:36:13.641] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:36:33.647] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:36:52.611] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:36:53.650] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:37:13.654] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:37:33.656] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-06|18:37:52.230] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-06|18:37:52.230] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-06|18:37:52.612] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:37:53.658] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:38:13.660] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:38:33.660] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:38:52.613] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|18:38:53.664] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:39:13.667] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|18:39:33.677] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|20:39:52.056] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|20:39:53.119] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|20:55:05.433] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|21:52:06.185] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:23:43.043] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|22:23:44.112] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:24:04.115] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:24:24.120] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:57:14.716] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|22:57:15.780] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:57:35.784] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:57:55.785] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:58:14.717] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|22:58:15.790] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:58:35.791] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|22:58:55.793] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|23:33:10.009] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-06|23:33:10.959] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|23:33:30.970] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-06|23:33:50.980] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|00:08:35.700] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|00:08:36.671] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:00:02.494] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:43:30.561] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:43:48.687] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:43:50.563] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:44:10.567] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:44:30.568] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:44:48.693] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:44:50.573] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:45:10.574] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:45:30.575] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|10:45:48.151] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|10:45:48.160] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|10:45:48.697] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:45:50.579] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:46:10.585] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:46:30.591] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:46:48.698] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:46:50.593] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:47:10.598] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:47:30.620] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:47:48.701] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:47:50.628] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:48:10.633] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:48:30.641] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:48:48.703] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:48:50.644] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:49:10.647] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:49:30.654] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:49:48.707] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:49:50.656] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:50:10.658] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:50:30.664] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:50:48.711] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:50:50.667] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:51:10.672] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:51:30.674] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:51:48.718] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:51:50.678] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:52:10.685] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:52:30.691] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:52:48.724] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:52:50.696] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:53:10.697] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:53:30.700] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:53:48.726] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:53:50.706] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:54:10.706] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:54:30.708] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:54:48.730] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:54:50.713] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:55:10.717] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:55:30.723] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-07|10:55:47.810] Writing clean trie cache to disk         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache threads=1
+INFO [10-07|10:55:47.825] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-07|10:55:47.860] Persisted the clean trie cache           path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache elapsed=45.883ms
+TRACE[10-07|10:55:48.165] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|10:55:48.165] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|10:55:48.732] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:55:50.726] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:56:10.728] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:56:30.738] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:56:48.736] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:56:50.741] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:57:10.741] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:57:30.742] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:57:48.739] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:57:50.748] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:58:10.750] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:58:30.751] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:58:48.745] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:58:50.755] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:59:10.760] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:59:30.766] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|10:59:48.750] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|10:59:50.771] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:00:10.776] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:00:30.778] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:00:48.752] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:00:50.779] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:01:10.780] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:01:30.784] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:01:48.759] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:01:50.785] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:02:10.791] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:02:30.791] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:02:48.764] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:02:50.792] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:03:10.793] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:03:30.796] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:03:48.769] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:03:50.801] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:04:10.804] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:04:30.809] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:04:48.771] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:04:50.811] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:05:10.812] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:05:30.816] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|11:05:48.166] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|11:05:48.168] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|11:05:48.778] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:05:50.822] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:06:10.830] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:06:30.831] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:06:48.784] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:06:50.831] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:07:10.834] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:07:30.840] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:07:48.792] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:07:50.847] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:08:10.847] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:08:30.854] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:08:48.797] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:08:50.860] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:09:10.860] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:09:30.870] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:09:48.802] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:09:50.874] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:10:10.877] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:10:30.880] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:10:48.802] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:10:50.884] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:11:10.891] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:11:30.892] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:11:48.804] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:11:50.897] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:12:10.900] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:12:30.903] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:12:48.809] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:12:50.906] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:13:10.907] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:13:30.909] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:13:48.816] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:13:50.914] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:14:10.915] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:14:30.918] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:14:48.822] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:14:50.922] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:15:10.926] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:15:30.929] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|11:15:48.172] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|11:15:48.181] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|11:15:48.824] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:15:50.930] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:16:10.935] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:16:30.936] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:16:48.824] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:16:50.939] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:17:10.944] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:17:30.947] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:17:48.831] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:17:50.948] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:18:10.951] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:18:30.959] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:18:48.833] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:18:50.965] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:19:10.966] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:19:30.969] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:19:48.834] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:19:50.971] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:20:10.971] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:20:30.975] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:20:48.839] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:20:50.977] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:21:10.978] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:21:30.978] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:21:48.840] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:21:50.985] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:22:10.986] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:22:30.990] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:22:48.843] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:22:50.990] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:23:10.992] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:23:30.995] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:23:48.848] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:23:50.997] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:24:10.998] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:24:31.004] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:24:48.852] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:24:51.008] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:25:11.013] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:25:31.018] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|11:25:48.186] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|11:25:48.189] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|11:25:48.856] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:25:51.024] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:26:11.024] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:26:31.028] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:26:48.860] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:26:51.031] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:27:11.033] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:27:31.036] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:27:48.864] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:27:51.040] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:28:11.042] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:28:31.049] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:28:48.867] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:28:51.051] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:29:11.053] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:29:31.057] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:29:48.875] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:29:51.059] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:30:11.065] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:30:31.070] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:30:48.880] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:30:51.071] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:31:11.075] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:31:31.082] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:31:48.884] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:31:51.090] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:32:11.092] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:32:31.095] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:32:48.891] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:32:51.101] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:33:11.103] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:33:31.106] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:33:48.896] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:33:51.113] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:34:11.117] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:34:31.120] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:34:48.899] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:34:51.127] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:35:11.128] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:35:31.130] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|11:35:48.194] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|11:35:48.196] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|11:35:48.906] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:35:51.131] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:36:11.139] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:36:31.144] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:36:48.910] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:36:51.149] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:37:11.153] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:37:31.154] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:37:48.916] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:37:51.162] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:38:11.167] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:38:31.173] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:38:48.918] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:38:51.181] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:39:11.182] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:39:31.189] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:39:48.924] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:39:51.191] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:40:11.192] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:40:31.196] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:40:48.931] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:40:51.201] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:41:11.202] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:41:31.204] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:41:48.934] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:41:51.211] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:42:11.215] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:42:31.219] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:42:48.942] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:42:51.226] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:43:11.227] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:43:31.230] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:43:48.947] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:43:51.232] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:44:11.238] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:44:31.244] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:44:48.950] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:44:51.248] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:45:11.249] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:45:31.251] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|11:45:48.199] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|11:45:48.202] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|11:45:48.954] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:45:51.253] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:46:11.254] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:46:31.259] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:46:48.959] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:46:51.262] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:47:11.266] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:47:31.271] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:47:48.967] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:47:51.275] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:48:11.280] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:48:31.283] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:48:48.973] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:48:51.290] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:49:11.295] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:49:31.298] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:49:48.979] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:49:51.303] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:50:11.303] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:50:31.314] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:50:48.983] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:50:51.316] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:51:11.318] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:51:31.320] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:51:48.989] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:51:51.322] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:52:11.323] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:52:31.328] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:52:48.993] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:52:51.331] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:53:11.336] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:53:31.344] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:53:48.997] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:53:51.346] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:54:11.348] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:54:31.351] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:54:48.999] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:54:51.353] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:55:11.358] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:55:31.361] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-07|11:55:47.811] Writing clean trie cache to disk         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache threads=1
+INFO [10-07|11:55:47.818] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-07|11:55:47.841] Persisted the clean trie cache           path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache elapsed=26.889ms
+TRACE[10-07|11:55:48.207] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|11:55:48.208] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|11:55:49.005] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:55:51.364] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:56:11.366] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:56:31.372] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:56:49.008] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:56:51.376] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:57:11.383] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:57:31.385] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:57:49.013] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:57:51.392] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:58:11.397] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:58:31.402] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:58:49.016] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:58:51.410] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:59:11.410] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:59:31.411] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|11:59:49.023] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|11:59:51.419] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:00:11.428] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:00:31.506] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:00:49.030] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:00:51.511] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:01:11.515] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:01:31.519] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:01:49.036] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:01:51.523] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:02:11.527] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:02:31.532] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:02:49.040] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:02:51.533] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:03:11.534] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:03:31.539] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:03:49.044] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:03:51.545] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:04:11.548] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:04:31.551] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:04:49.048] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:04:51.556] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:05:11.559] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:05:31.565] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|12:05:48.215] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|12:05:48.215] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|12:05:49.053] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:05:51.570] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:06:11.577] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:06:31.582] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:06:49.060] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:06:51.587] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:07:11.596] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:07:31.606] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:07:49.071] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:07:51.608] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:08:11.609] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:08:31.613] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:08:49.080] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:08:51.616] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:09:11.625] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:09:31.634] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:09:49.087] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:09:51.644] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:10:11.655] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:10:31.665] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:10:49.090] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:10:51.676] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:11:11.688] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:11:31.698] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:11:49.099] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:11:51.708] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:12:11.719] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:12:31.728] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:12:49.103] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:12:51.735] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:13:11.743] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:13:31.755] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:13:49.107] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:13:51.765] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:14:11.775] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:14:31.780] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:14:49.112] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:14:51.785] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:15:11.788] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:15:31.797] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|12:15:48.218] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|12:15:48.218] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|12:15:49.112] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:15:51.806] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:16:11.808] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:16:31.814] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:16:49.115] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:16:51.816] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:17:11.821] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:17:31.825] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:17:49.119] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:17:51.829] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:18:11.833] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:18:31.839] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:18:49.124] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:18:51.842] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:19:11.847] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:19:31.852] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:19:49.127] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:19:51.856] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:20:11.857] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:20:31.860] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:20:49.135] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:20:51.862] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:21:11.866] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:21:31.867] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:21:49.136] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:21:51.870] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:22:11.871] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:22:31.874] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:22:49.136] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:22:51.878] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:23:11.882] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:23:31.883] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:23:49.142] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:23:51.889] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:24:11.894] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:24:31.899] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:24:49.145] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:24:51.902] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:25:11.908] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:25:31.909] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|12:25:48.220] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|12:25:48.225] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|12:25:49.149] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:25:51.910] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:26:11.915] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:26:31.921] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:26:49.152] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:26:51.922] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:27:11.928] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:27:31.930] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:27:49.154] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:27:51.938] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:28:11.938] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:28:31.944] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:28:49.157] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:28:51.951] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:46:38.590] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:46:58.595] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:47:15.796] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:47:18.605] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:47:38.611] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:47:58.617] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:48:15.796] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:48:18.625] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:48:38.628] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:48:58.634] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:49:15.800] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:49:18.639] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:49:38.645] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:49:58.650] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:50:15.802] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:50:18.652] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:50:38.658] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:50:58.662] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:51:15.807] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:51:18.665] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:51:38.666] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:51:58.670] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:52:15.812] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:52:18.673] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:52:38.675] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:52:58.682] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|12:53:14.864] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|12:53:14.867] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|12:53:15.814] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:53:18.689] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:53:38.691] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:53:58.695] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:54:15.816] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:54:18.699] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:54:38.702] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:54:58.706] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:55:15.822] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:55:18.713] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:55:38.718] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:55:58.723] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:56:15.829] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:56:18.727] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:56:38.734] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:56:58.739] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:57:15.832] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:57:18.744] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:57:38.749] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:57:58.754] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:58:15.837] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:58:18.761] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:58:38.764] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:58:58.767] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:59:15.844] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|12:59:18.772] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:59:38.777] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|12:59:58.781] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:00:15.847] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:00:18.785] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:00:38.789] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:00:58.796] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:01:15.848] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:01:18.803] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:01:38.808] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:01:58.812] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:02:15.852] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:02:18.813] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:02:38.816] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:02:58.820] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|13:03:14.870] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|13:03:14.873] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|13:03:15.859] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:03:18.825] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:03:38.834] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:03:58.837] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:04:15.864] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:04:18.841] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:04:38.848] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:04:58.853] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:05:15.869] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:05:18.854] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:05:38.860] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:05:58.862] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:06:15.872] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:06:18.868] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:06:38.870] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:06:58.877] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:07:15.877] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:07:18.884] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:07:38.888] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:07:58.892] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:08:15.881] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:08:18.895] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:08:38.896] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:08:58.898] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:09:15.889] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:09:18.906] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:09:38.911] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:09:58.916] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:10:15.890] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:10:18.920] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:10:38.925] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:10:58.933] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:11:15.894] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:11:18.940] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:11:38.946] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:11:58.947] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:12:15.899] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:12:18.949] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:12:38.952] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:12:58.957] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-07|13:13:14.449] Writing clean trie cache to disk         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache threads=1
+INFO [10-07|13:13:14.455] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-07|13:13:14.477] Persisted the clean trie cache           path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache elapsed=27.225ms
+TRACE[10-07|13:13:14.878] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|13:13:14.882] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|13:13:15.907] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:13:18.963] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:13:38.968] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:13:58.974] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:14:15.908] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:14:18.978] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:14:38.982] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:14:58.988] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:15:15.913] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:15:18.991] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:15:38.991] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:15:58.998] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:16:15.919] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:16:18.998] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:16:39.004] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:16:59.010] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:17:15.926] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:17:19.013] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:17:39.014] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:17:59.018] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:18:15.933] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:18:19.022] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:18:39.024] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:18:59.030] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:19:15.939] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:19:19.037] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:19:39.039] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:19:59.044] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:20:15.948] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:20:19.051] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:20:39.053] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:20:59.058] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:21:15.950] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:21:19.062] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:21:39.067] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:21:59.071] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:22:15.960] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:22:19.073] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:22:39.077] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:22:59.082] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|13:23:14.883] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|13:23:14.889] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|13:23:15.963] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:23:19.085] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:23:39.086] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:23:59.091] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:24:15.968] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:24:19.096] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:24:39.097] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:24:59.103] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:25:15.975] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:25:19.104] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:25:39.106] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:25:59.106] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:26:15.978] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:26:19.108] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:26:39.110] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:26:59.115] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:27:15.984] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:27:19.115] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:27:39.119] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:27:59.125] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:28:15.989] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:28:19.125] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:28:39.129] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:28:59.132] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:29:15.995] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:29:19.134] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:29:39.135] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:29:59.138] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:30:15.997] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:30:19.143] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:30:39.148] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:30:59.153] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:31:16.000] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:31:19.156] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:31:39.161] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:31:59.166] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:32:16.007] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:32:19.167] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:32:39.170] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:32:59.178] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|13:33:14.894] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|13:33:14.896] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|13:33:16.013] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:33:19.182] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:33:39.186] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:33:59.190] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:34:16.018] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:34:19.194] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:34:39.201] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:34:59.204] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:35:16.021] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:35:19.212] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:35:39.217] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:35:59.225] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:36:16.030] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:36:19.229] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:36:39.232] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:36:59.236] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:37:16.039] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:37:19.240] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:37:39.244] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:37:59.254] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:38:16.041] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:38:19.257] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:38:39.260] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:38:59.266] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:39:16.047] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:39:19.273] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:39:39.278] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:39:59.281] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:40:16.055] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:40:19.285] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:40:39.290] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:40:59.292] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:41:16.078] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:41:19.296] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:41:39.298] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:41:59.307] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:42:16.090] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:42:19.310] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:42:39.314] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:42:59.319] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|13:43:14.901] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|13:43:14.904] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|13:43:16.094] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:43:19.323] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:43:39.325] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:43:59.331] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:44:16.099] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:44:19.335] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:44:39.339] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:44:59.343] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:45:16.105] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:45:19.347] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:45:39.351] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:45:59.355] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:46:16.109] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:46:19.359] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:46:39.362] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:46:59.362] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:47:16.113] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:47:19.367] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:47:39.370] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:47:59.373] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:48:16.121] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:48:19.379] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:48:39.380] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:48:59.387] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:49:16.125] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:49:19.389] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:49:39.390] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:49:59.395] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:50:16.128] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:50:19.396] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:50:39.396] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:50:59.404] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:51:16.134] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:51:19.407] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:51:39.411] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:51:59.416] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:52:16.134] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:52:19.420] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:52:39.421] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:52:59.423] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|13:53:14.911] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|13:53:14.916] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|13:53:16.143] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:53:19.428] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:53:39.429] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:53:59.432] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:54:16.143] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:54:19.437] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:54:39.437] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:54:59.440] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:55:16.152] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:55:19.444] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:55:39.444] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:55:59.448] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:56:16.159] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:56:19.451] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:56:39.452] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:56:59.459] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:57:16.160] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:57:19.462] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:57:39.463] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:57:59.467] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:58:16.162] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:58:19.473] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:58:39.474] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:58:59.480] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:59:16.171] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|13:59:19.484] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:59:39.485] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|13:59:59.488] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:00:16.176] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:00:19.492] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:00:39.493] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:00:59.500] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:01:16.177] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:01:19.505] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:01:39.508] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:01:59.509] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:02:16.179] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:02:19.513] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:02:39.516] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:02:59.518] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|14:03:14.919] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|14:03:14.929] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|14:03:16.185] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:03:19.528] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:03:39.530] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:03:59.534] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:04:16.185] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:04:19.540] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:04:39.544] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:04:59.548] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:05:16.190] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:05:19.552] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:05:39.556] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:05:59.558] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:06:16.197] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:06:19.564] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:06:39.568] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:06:59.572] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:07:16.200] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:07:19.576] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:07:39.580] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:07:59.584] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:08:16.204] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:08:19.588] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:08:39.596] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:08:59.597] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:09:16.205] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:09:19.601] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:09:39.609] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:09:59.614] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:10:16.212] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:10:19.618] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:10:39.619] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:10:59.625] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:11:16.243] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:11:19.632] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:11:39.641] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:11:59.659] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:12:16.326] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:12:19.665] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:12:39.666] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:12:59.672] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-07|14:13:14.446] Writing clean trie cache to disk         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache threads=1
+INFO [10-07|14:13:14.466] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [10-07|14:13:14.515] Persisted the clean trie cache           path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache elapsed=48.083ms
+TRACE[10-07|14:13:14.931] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|14:13:14.941] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|14:13:16.334] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:13:19.674] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:13:39.680] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:13:59.695] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:14:16.336] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:14:19.697] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:14:39.699] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:14:59.702] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:15:16.339] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:15:19.705] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:15:39.714] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:15:59.732] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:16:16.343] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:16:19.737] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:16:39.740] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:16:59.745] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:17:16.344] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:17:19.748] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:17:39.749] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:17:59.756] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:18:16.352] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:18:19.759] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:18:39.760] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:18:59.763] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:19:16.354] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:19:19.766] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:19:39.767] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:19:59.770] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:20:16.364] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:20:19.773] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:20:39.773] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:20:59.780] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:21:16.375] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:21:19.786] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:21:39.788] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:21:59.799] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:22:16.391] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:22:19.806] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:22:39.806] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:22:59.814] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|14:23:14.943] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|14:23:14.951] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|14:23:16.394] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:23:19.822] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:23:39.830] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:23:59.839] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:24:16.399] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:24:19.843] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:24:39.847] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:24:59.851] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:25:16.403] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:25:19.858] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:25:39.866] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:25:59.883] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:26:16.403] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:26:19.887] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:26:39.889] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:26:59.893] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:27:16.405] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:27:19.898] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:27:39.899] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:27:59.899] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:28:16.412] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:28:19.900] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:28:39.900] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:28:59.902] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:29:16.440] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:29:19.906] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:29:39.929] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:29:59.943] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:30:16.452] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:30:19.948] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:30:39.952] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:30:59.960] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:31:16.476] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:31:19.963] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:31:39.965] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:31:59.994] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:32:16.640] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:32:20.210] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:32:40.211] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:33:00.213] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|14:33:14.961] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|14:33:14.986] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|14:33:16.670] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:33:20.216] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:33:40.220] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:34:00.224] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:34:16.674] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:34:20.229] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:34:40.234] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:35:00.240] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:35:16.678] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:35:20.244] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:35:40.244] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:36:00.249] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:36:16.686] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:36:20.251] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:36:40.255] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:37:00.264] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:37:16.687] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:37:20.270] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:37:40.273] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:38:00.278] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:38:16.692] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:38:20.282] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:38:40.283] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:39:00.284] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:39:16.699] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:39:20.287] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:39:40.291] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:40:00.295] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:40:16.701] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:40:20.300] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:40:40.303] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:41:00.306] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:41:16.710] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:41:20.308] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:41:40.314] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:42:00.320] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:42:16.713] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:42:20.328] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:42:40.330] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:43:00.333] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+TRACE[10-07|14:43:14.994] Refreshing port mapping                  proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"
+DEBUG[10-07|14:43:14.997] Couldn't add port mapping                proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-07|14:43:16.721] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:43:20.334] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:43:40.334] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:44:00.342] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:44:16.727] Current full block not old enough        number=0 hash="ec3115…2a1505" delay=90000
+DEBUG[10-07|14:44:20.349] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:44:40.355] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-07|14:45:00.362] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-07|14:45:01.697] Got interrupt, shutting down... 
+DEBUG[10-07|14:45:01.700] RPC server shutting down 
+INFO [10-07|14:45:02.207] HTTP server stopped                      endpoint=[::]:22000
+DEBUG[10-07|14:45:02.211] RPC server shutting down 
+INFO [10-07|14:45:02.211] IPC endpoint closed                      url=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth.ipc
+DEBUG[10-07|14:45:02.212] RPC server shutting down 
+DEBUG[10-07|14:45:02.212] RPC connection read error                err=EOF
+INFO [10-07|14:45:02.278] Deallocated fast sync bloom              items=1 errorrate=0.000
+DEBUG[10-07|14:45:02.280] Reset ancient limit to zero 
+INFO [10-07|14:45:02.281] Ethereum protocol stopped 
+INFO [10-07|14:45:02.284] Transaction pool stopped 
+INFO [10-07|14:45:02.286] Writing clean trie cache to disk         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache threads=4
+INFO [10-07|14:45:02.300] Persisted the clean trie cache           path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/1node-example/node1/geth/triecache elapsed=12.713ms
+INFO [10-07|14:45:02.304] Blockchain stopped 
+TRACE[10-07|14:45:02.306] Ethash remote sealer is exiting 
+DEBUG[10-07|14:45:02.317] Read error                               err="accept tcp [::]:21000: use of closed network connection"
+TRACE[10-07|14:45:02.317] P2P networking is spinning down 
+DEBUG[10-07|14:45:02.317] Deleting port mapping                    proto=tcp extport=21000 intport=21000 interface="UPnP or NAT-PMP"

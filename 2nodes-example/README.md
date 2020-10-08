@@ -1,18 +1,20 @@
-# 1 Node quorum network #
+# 2 Nodes quorum network #
 
 ## Introduction ##
-Through this example you can build a Quorum network formed by 1 node. This example can be used in order to test your development environment and trying to explore the Quorum framework.
+Through this example you can build a Quorum network formed by 2 nodes. This example can be used in order to test your development environment and trying to explore the Quorum framework.
 
 ### How to reproduce the example ###
 
-1. Create the repository for our node
+1. Create the repositories for our nodes
 ```console
 mkdir node1
+mkdir node2
 ```
 
-2. Generate account for the node
+2. Generate accounts for the nodes
 ```console
 geth --datadir node1 account new
+geth --datadir node2 account new
 ```
 
 3. Create the genesis.json file.
@@ -64,17 +66,26 @@ ls node1/keystore
 bootnode --genkey=nodekey
 mkdir node1/geth
 mv nodekey node1/geth/
+
+bootnode --genkey=nodekey
+mkdir node2/geth
+mv nodekey node2/geth/
 ```
 
-6. Create enode id of node1
+6. Create enode id of node1 and node2
 ```console
 bootnode --nodekey=node1/geth/nodekey --writeaddress > node1/enode
 cat node1/enode
+
+bootnode --nodekey=node2/geth/nodekey --writeaddress > node2/enode
+cat node2/enode
 ```
 
-7. Create .TOML configuration file
+7. Create .TOML configuration file for node 1
 ```console
-geth --nodiscover --verbosity 5 --networkid 31337 --http --http.addr 0.0.0.0 --http.port 22000 --http.api admin,eth,debug,miner,net,txpool,personal,web3 --port 21000 dumpconfig > conf.toml
+geth --nodiscover --verbosity 5 --networkid 31337 --http --http.addr 0.0.0.0 --http.port 22000 --http.api admin,eth,debug,miner,net,txpool,personal,web3 --port 21000 dumpconfig > node1/conf.toml
+
+geth --nodiscover --verbosity 5 --networkid 31337 --http --http.addr 0.0.0.0 --http.port 22001 --http.api admin,eth,debug,miner,net,txpool,personal,web3 --port 21001 dumpconfig > node2/conf.toml
 ```
 
 8. Populate 'BootstrapNodes' field with the enode id created at step 6. Address needs also to specify the ports that are going to be used for devp2p and raft. See example below:
@@ -82,9 +93,10 @@ geth --nodiscover --verbosity 5 --networkid 31337 --http --http.addr 0.0.0.0 --h
 BootstrapNodes = ["enode://NODEID_CREATED_AT_STEP_6@127.0.0.1:21000?discport=0&raftport=50000"]
 ```
 
-9. Initialize the node
+9. Initialize the node. (genesis.json file must contain only nodeN account in the alloc file otherwise the command will fail with message "Fatal: invalid genesis file: EOF")
 ```console
 geth --datadir node1 init genesis.json
+geth --datadir node2 init genesis.json
 ```
 
 10. Start node by running the startNetwork.sh script:
