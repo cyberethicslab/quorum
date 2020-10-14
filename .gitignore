@@ -1,6 +1,12 @@
 1node-example/private.txt
 1node-example/node.log
 2nodes-example/private.txt
-2nodes-example/old
-istanbulBFT/instanbul-tools
+2nodes-example
+istanbulBFT/tools
 istanbulBFT/private.txt
+istanbulBFT/node0/node0.log
+istanbulBFT/node0/nohup.out
+istanbulBFT/node1/node1.log
+istanbulBFT/node1/nohup.out
+istanbulBFT/node2/node2.log
+istanbulBFT/node2/nohup.out

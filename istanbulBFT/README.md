@@ -14,12 +14,12 @@ make
 
 2. Create a working directory for each node
 ```console
-mkdir node1 node2 node3
+mkdir node0 node1 node2
 ```
 
 3. Change into the lead (whichever one you consider first) node’s working directory and generate the setup files for X initial validator nodes by executing
 ```console
-istanbul setup --num X --nodes --quorum --save --verbose
+../tools/istanbul-tools/build/bin/istanbul setup --num X --nodes --quorum --save --verbose
 ```
 This command will generate several items of interest: static-nodes.json, genesis.json, and nodekeys for all the initial validator nodes which will sit in numbered directories from 0 to X-1.
 
@@ -70,5 +70,10 @@ geth attach node0/geth.ipc
 ```
 or
 ```console
-geth attach http://127.0.0.1:30300
+geth attach http://127.0.0.1:22000
+```
+
+Create .TOML configuration file
+```console
+geth --syncmode full --mine --minerthreads 1 --verbosity 5 --networkid 1000 --ipcdisable --http --http.addr 0.0.0.0 --http.port 22000 --http.api admin,eth,debug,miner,net,txpool,personal,web3 --port 30300 dumpconfig > conf.toml
 ```

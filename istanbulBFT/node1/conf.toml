@@ -1,0 +1,84 @@
+[Eth]
+NetworkId = 1000
+SyncMode = "full"
+DiscoveryURLs = []
+NoPruning = false
+NoPrefetch = false
+LightPeers = 100
+UltraLightFraction = 75
+DatabaseCache = 512
+DatabaseFreezer = ""
+TrieCleanCache = 256
+TrieCleanCacheJournal = "triecache"
+TrieCleanCacheRejournal = 3600000000000
+TrieDirtyCache = 256
+TrieTimeout = 3600000000000
+SnapshotCache = 0
+EnablePreimageRecording = false
+EWASMInterpreter = ""
+EVMInterpreter = ""
+RPCGasCap = 25000000
+RPCTxFeeCap = 1e+00
+
+[Eth.Miner]
+GasFloor = 8000000
+GasCeil = 8000000
+GasPrice = 1000000000
+Recommit = 3000000000
+Noverify = false
+
+[Eth.Ethash]
+CacheDir = "ethash"
+CachesInMem = 2
+CachesOnDisk = 3
+CachesLockMmap = false
+DatasetDir = "/Users/alessiobianchini/Library/Ethash"
+DatasetsInMem = 1
+DatasetsOnDisk = 2
+DatasetsLockMmap = false
+PowMode = 0
+
+[Eth.TxPool]
+Locals = []
+NoLocals = false
+Journal = "transactions.rlp"
+Rejournal = 3600000000000
+PriceLimit = 1
+PriceBump = 10
+AccountSlots = 16
+GlobalSlots = 4096
+AccountQueue = 64
+GlobalQueue = 1024
+Lifetime = 10800000000000
+
+[Eth.GPO]
+Blocks = 20
+Percentile = 60
+MaxPrice = 500000000000
+
+[Node]
+DataDir = "/Users/alessiobianchini/Library/Ethereum"
+IPCPath = ""
+HTTPHost = "0.0.0.0"
+HTTPPort = 22001
+HTTPVirtualHosts = ["localhost"]
+HTTPModules = ["admin", "eth", "debug", "miner", "net", "txpool", "personal", "web3"]
+WSHost = ""
+WSPort = 8546
+WSModules = ["net", "web3", "eth"]
+GraphQLVirtualHosts = ["localhost"]
+
+[Node.P2P]
+MaxPeers = 50
+NoDiscovery = false
+BootstrapNodes = ["enode://f84ecd1f324581f37df94bb6c351e11965cfbb2f29528fc057121793c1a14822c51cb290afdf7bca3ac85ba77f660e55fff57476b90446b5e61246cff661fe98@127.0.0.1:40000?discport=9997","enode://272eb413f1bba5e39de45659ce9148c5d2b0dfe572ef265fd49641d4e0502fadab275affb88c0996937647ef58319dea402c7f9e683d6ec5b489789437c7db3b@127.0.0.1:40001?discport=9998","enode://fd9e93c7e5fb7d69f84825f6c998f6ed1ced056ba63ebaed9e9028ac035af3ea630b8be87282a5ba59cae536e14cf227255e02e9b8206d7ec784c66a5d863ad1@127.0.0.1:40002?discport=9999"]
+BootstrapNodesV5 = ["enode://f84ecd1f324581f37df94bb6c351e11965cfbb2f29528fc057121793c1a14822c51cb290afdf7bca3ac85ba77f660e55fff57476b90446b5e61246cff661fe98@127.0.0.1:40000?discport=9997","enode://272eb413f1bba5e39de45659ce9148c5d2b0dfe572ef265fd49641d4e0502fadab275affb88c0996937647ef58319dea402c7f9e683d6ec5b489789437c7db3b@127.0.0.1:40001?discport=9998","enode://fd9e93c7e5fb7d69f84825f6c998f6ed1ced056ba63ebaed9e9028ac035af3ea630b8be87282a5ba59cae536e14cf227255e02e9b8206d7ec784c66a5d863ad1@127.0.0.1:40002?discport=9999"]
+StaticNodes = []
+TrustedNodes = []
+ListenAddr = ":40001"
+EnableMsgEvents = false
+
+[Node.HTTPTimeouts]
+ReadTimeout = 30000000000
+WriteTimeout = 30000000000
+IdleTimeout = 120000000000

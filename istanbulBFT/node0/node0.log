@@ -1,78 +1,135 @@
-appending output to nohup.out
-flag provided but not defined: -istanbul.blockperiod
-appending output to nohup.out
-flag provided but not defined: -istanbul.blockperiod
-appending output to nohup.out
-flag provided but not defined: -emitcheckpoints
-appending output to nohup.out
-DEBUG[10-08|16:22:20.961] Sanitizing Go's GC trigger               percent=100
-INFO [10-08|16:22:20.966] Maximum peer count                       ETH=50 LES=0 total=50
-WARN [10-08|16:22:20.968] The flag --rpc is deprecated and will be removed in the future, please use --http 
-WARN [10-08|16:22:20.968] The flag --rpcaddr is deprecated and will be removed in the future, please use --http.addr 
-WARN [10-08|16:22:20.968] The flag --rpcport is deprecated and will be removed in the future, please use --http.port 
-WARN [10-08|16:22:20.968] The flag --rpcapi is deprecated and will be removed in the future, please use --http.api 
-DEBUG[10-08|16:22:20.973] FS scan times                            list="291.493µs" set="21.58µs" diff="10.265µs"
-TRACE[10-08|16:22:20.977] Handled keystore changes                 time=3.725312ms
-TRACE[10-08|16:22:20.977] Started watching keystore folder         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/keystore
-WARN [10-08|16:22:21.018] Found deprecated node list file /Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/static-nodes.json, please use the TOML config file instead. 
-INFO [10-08|16:22:21.019] Set global gas cap                       cap=25000000
-INFO [10-08|16:22:21.019] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
-INFO [10-08|16:22:21.023] Allocated cache and file handles         database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata cache=512.00MiB handles=5120
-DEBUG[10-08|16:22:21.254] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=hashes items=0 size=0.00B
-DEBUG[10-08|16:22:21.311] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=bodies items=0 size=0.00B
-DEBUG[10-08|16:22:21.368] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=receipts items=0 size=0.00B
-DEBUG[10-08|16:22:21.411] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=diffs    items=0 size=0.00B
-DEBUG[10-08|16:22:21.460] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=headers  items=0 size=0.00B
-INFO [10-08|16:22:21.460] Opened ancient database                  database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient
-DEBUG[10-08|16:22:21.464] Current full block not old enough        number=0 hash="e92b3e…276935" delay=90000
-INFO [10-08|16:22:21.473] Initialised chain configuration          config="{ChainID: 10 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: 0 Petersburg: <nil> Istanbul: <nil>, Muir Glacier: <nil>, YOLO v1: <nil>, Engine: unknown}"
-INFO [10-08|16:22:21.473] Disk storage enabled for ethash caches   dir=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/ethash count=3
-INFO [10-08|16:22:21.473] Disk storage enabled for ethash DAGs     dir=/Users/alessiobianchini/Library/Ethash count=2
-INFO [10-08|16:22:21.474] Initialising Ethereum protocol           versions="[65 64 63]" network=10 dbversion=<nil>
-WARN [10-08|16:22:21.474] Upgrade blockchain database version      from=<nil> to=8
-INFO [10-08|16:22:21.477] Loaded most recent local header          number=0 hash="e92b3e…276935" td=1 age=45m48s
-INFO [10-08|16:22:21.477] Loaded most recent local full block      number=0 hash="e92b3e…276935" td=1 age=45m48s
-INFO [10-08|16:22:21.477] Loaded most recent local fast block      number=0 hash="e92b3e…276935" td=1 age=45m48s
-DEBUG[10-08|16:22:21.486] Reinjecting stale transactions           count=0
-INFO [10-08|16:22:21.487] Regenerated local transaction journal    transactions=0 accounts=0
-DEBUG[10-08|16:22:21.492] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
-INFO [10-08|16:22:21.492] Starting peer-to-peer node               instance=Geth/v1.9.22-stable/darwin-amd64/go1.15.2
-TRACE[10-08|16:22:21.622] Adding static node                       id=2b07a911c51a0408 ip=127.0.0.1 added=true
-TRACE[10-08|16:22:21.622] Adding static node                       id=0a7d604603626fe4 ip=127.0.0.1 added=true
-TRACE[10-08|16:22:21.622] Starting p2p dial                        id=0a7d604603626fe4 ip=127.0.0.1 flag=staticdial
-TRACE[10-08|16:22:21.622] Adding static node                       id=44cf1ca8bf61cab4 ip=127.0.0.1 added=true
-TRACE[10-08|16:22:21.622] Starting p2p dial                        id=44cf1ca8bf61cab4 ip=127.0.0.1 flag=staticdial
-DEBUG[10-08|16:22:21.623] TCP listener up                          addr=[::]:30300
-DEBUG[10-08|16:22:21.625] IPC registered                           namespace=admin
-DEBUG[10-08|16:22:21.625] IPC registered                           namespace=admin
-DEBUG[10-08|16:22:21.625] IPC registered                           namespace=debug
-DEBUG[10-08|16:22:21.625] IPC registered                           namespace=web3
-DEBUG[10-08|16:22:21.625] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=txpool
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=debug
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=debug
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=personal
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=ethash
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=miner
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=eth
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=admin
-DEBUG[10-08|16:22:21.626] IPC registered                           namespace=debug
-INFO [10-08|16:22:21.627] New local node record                    seq=1 id=2b07a911c51a0408 ip=127.0.0.1 udp=0 tcp=30300
-INFO [10-08|16:22:21.627] Started P2P networking                   self="enode://50cd3d80b8161be289a1e1cfe0f976d8f250b33744798228733823869a54980264ef6c1f472b03b9e3b8d62d3f3bb6086eec9a8d20f3ffd2a801a5f57707c52c@127.0.0.1:30300?discport=0"
-DEBUG[10-08|16:22:21.627] IPC registered                           namespace=debug
-DEBUG[10-08|16:22:21.627] IPC registered                           namespace=net
-DEBUG[10-08|16:22:21.627] RPC server shutting down 
-DEBUG[10-08|16:22:21.628] Read error                               err="accept tcp [::]:30300: use of closed network connection"
-TRACE[10-08|16:22:21.628] P2P networking is spinning down 
-TRACE[10-08|16:22:21.630] Rejected peer                            id=0a7d604603626fe4 addr=127.0.0.1:30301 conn=staticdial err="server stopped"
-TRACE[10-08|16:22:21.630] Rejected peer                            id=44cf1ca8bf61cab4 addr=127.0.0.1:30302 conn=staticdial err="server stopped"
-DEBUG[10-08|16:22:23.726] Couldn't add port mapping                proto=tcp extport=30300 intport=30300 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
-DEBUG[10-08|16:22:23.726] Deleting port mapping                    proto=tcp extport=30300 intport=30300 interface="UPnP or NAT-PMP"
-Fatal: Error starting protocol stack: listen unix /Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth.ipc: bind: invalid argument
+INFO [10-14|13:04:59.225] Starting Geth on Ethereum mainnet... 
+INFO [10-14|13:04:59.226] Bumping default cache on mainnet         provided=1024 updated=4096
+WARN [10-14|13:04:59.226] Sanitizing cache to Go's GC limits       provided=4096 updated=1365
+DEBUG[10-14|13:04:59.226] Sanitizing Go's GC trigger               percent=75
+INFO [10-14|13:04:59.232] Maximum peer count                       ETH=50 LES=0 total=50
+DEBUG[10-14|13:04:59.233] FS scan times                            list="185.069µs" set="14.784µs" diff="36.597µs"
+TRACE[10-14|13:04:59.235] Handled keystore changes                 time=1.710294ms
+TRACE[10-14|13:04:59.238] Started watching keystore folder         path=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/keystore
+INFO [10-14|13:04:59.273] Set global gas cap                       cap=25000000
+INFO [10-14|13:04:59.273] Allocated trie memory caches             clean=340.00MiB dirty=341.00MiB
+INFO [10-14|13:04:59.273] Allocated cache and file handles         database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata cache=682.00MiB handles=5120
+DEBUG[10-14|13:04:59.456] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=receipts items=0 size=0.00B
+DEBUG[10-14|13:04:59.487] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=diffs    items=0 size=0.00B
+DEBUG[10-14|13:04:59.500] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=headers  items=0 size=0.00B
+DEBUG[10-14|13:04:59.512] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=hashes   items=0 size=0.00B
+DEBUG[10-14|13:04:59.522] Chain freezer table opened               database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient table=bodies   items=0 size=0.00B
+INFO [10-14|13:04:59.522] Opened ancient database                  database=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/chaindata/ancient
+DEBUG[10-14|13:04:59.525] Current full block not old enough        number=0 hash="607eab…d94888" delay=90000
+INFO [10-14|13:04:59.525] Initialised chain configuration          config="{ChainID: 10 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: 0 Petersburg: <nil> Istanbul: <nil>, Muir Glacier: <nil>, YOLO v1: <nil>, Engine: unknown}"
+INFO [10-14|13:04:59.525] Disk storage enabled for ethash caches   dir=/Users/alessiobianchini/Documents/projects/cyberethicslab/phoenix/quorum/istanbulBFT/node0/data/geth/ethash count=3
+INFO [10-14|13:04:59.525] Disk storage enabled for ethash DAGs     dir=/Users/alessiobianchini/Library/Ethash count=2
+INFO [10-14|13:04:59.527] Initialising Ethereum protocol           versions="[65 64 63]" network=1000 dbversion=8
+INFO [10-14|13:04:59.537] Loaded most recent local header          number=0 hash="607eab…d94888" td=1 age=22h3m50s
+INFO [10-14|13:04:59.537] Loaded most recent local full block      number=0 hash="607eab…d94888" td=1 age=22h3m50s
+INFO [10-14|13:04:59.537] Loaded most recent local fast block      number=0 hash="607eab…d94888" td=1 age=22h3m50s
+DEBUG[10-14|13:04:59.537] Reinjecting stale transactions           count=0
+INFO [10-14|13:04:59.537] Loaded local transaction journal         transactions=0 dropped=0
+INFO [10-14|13:04:59.538] Regenerated local transaction journal    transactions=0 accounts=0
+DEBUG[10-14|13:04:59.540] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+INFO [10-14|13:04:59.542] Starting peer-to-peer node               instance=Geth/v1.9.22-stable/darwin-amd64/go1.15.2
+DEBUG[10-14|13:04:59.686] UDP listener up                          addr=[::]:40000
+DEBUG[10-14|13:04:59.687] TCP listener up                          addr=[::]:40000
+TRACE[10-14|13:04:59.691] Found seed node in database              id=172d603e8c5478c3 addr=127.0.0.1:9997 age=445187h4m59.691628s
+INFO [10-14|13:04:59.692] New local node record                    seq=25 id=172d603e8c5478c3 ip=127.0.0.1 udp=40000 tcp=40000
+TRACE[10-14|13:04:59.692] Found seed node in database              id=bcc9348d9c122c97 addr=127.0.0.1:9998 age=445187h4m59.692893s
+TRACE[10-14|13:04:59.692] Found seed node in database              id=b1415a482a6ad369 addr=127.0.0.1:9999 age=445187h4m59.692952s
+TRACE[10-14|13:04:59.693] Starting p2p dial                        id=bcc9348d9c122c97 ip=127.0.0.1 flag=dyndial
+TRACE[10-14|13:04:59.695] >> PING/v4                               id=b1415a482a6ad369 addr=127.0.0.1:9999 err=nil
+TRACE[10-14|13:04:59.695] Starting p2p dial                        id=b1415a482a6ad369 ip=127.0.0.1 flag=dyndial
+TRACE[10-14|13:04:59.696] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998 err=nil
+TRACE[10-14|13:04:59.696] Dial error                               id=b1415a482a6ad369 addr=127.0.0.1:40002 conn=dyndial err="connect: connection refused"
+INFO [10-14|13:04:59.696] Started P2P networking                   self=enode://f84ecd1f324581f37df94bb6c351e11965cfbb2f29528fc057121793c1a14822c51cb290afdf7bca3ac85ba77f660e55fff57476b90446b5e61246cff661fe98@127.0.0.1:40000
+INFO [10-14|13:04:59.696] HTTP server started                      endpoint=[::]:22000 cors= vhosts=localhost
+TRACE[10-14|13:04:59.698] Found seed node in database              id=172d603e8c5478c3 addr=127.0.0.1:9997  age=445187h4m59.698387s
+TRACE[10-14|13:04:59.698] Found seed node in database              id=bcc9348d9c122c97 addr=127.0.0.1:9998  age=445187h4m59.698501s
+DEBUG[10-14|13:04:59.698] Adding p2p peer                          peercount=1 id=bcc9348d9c122c97 conn=dyndial addr=127.0.0.1:40001 name=Geth/v1.9.22-stable/...
+TRACE[10-14|13:04:59.698] Found seed node in database              id=b1415a482a6ad369 addr=127.0.0.1:9999  age=445187h4m59.698818s
+TRACE[10-14|13:04:59.698] Starting protocol eth/65                 id=bcc9348d9c122c97 conn=dyndial
+DEBUG[10-14|13:04:59.699] Ethereum peer connected                  id=bcc9348d9c122c97 conn=dyndial name=Geth/v1.9.22-stable/darwin-amd64/go1.15.2
+TRACE[10-14|13:04:59.699] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:04:59.699] >> PING/v4                               id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:04:59.700] Registering sync peer                    peer=bcc9348d9c122c97
+TRACE[10-14|13:05:00.152] Accepted connection                      addr=127.0.0.1:62582
+DEBUG[10-14|13:05:00.157] Adding p2p peer                          peercount=2 id=b1415a482a6ad369 conn=inbound addr=127.0.0.1:62582 name=Geth/v1.9.22-stable/...
+TRACE[10-14|13:05:00.157] Starting protocol eth/65                 id=b1415a482a6ad369 conn=inbound
+DEBUG[10-14|13:05:00.158] Ethereum peer connected                  id=b1415a482a6ad369 conn=inbound name=Geth/v1.9.22-stable/darwin-amd64/go1.15.2
+TRACE[10-14|13:05:00.158] Registering sync peer                    peer=b1415a482a6ad369
+DEBUG[10-14|13:05:00.158] Relaxed downloader QoS values            rtt=20s confidence=0.500 ttl=1m0s
+TRACE[10-14|13:05:00.696] >> FINDNODE/v4                           id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:00.697] >> FINDNODE/v4                           id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:00.699] >> FINDNODE/v4                           id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:00.700] >> FINDNODE/v4                           id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:01.196] FINDNODE failed                          id=b1415a482a6ad369 failcount=9 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:01.197] FINDNODE failed                          id=bcc9348d9c122c97 failcount=16 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:01.197] Discarding dial candidate                id=b1415a482a6ad369 ip=127.0.0.1 reason="already connected"
+TRACE[10-14|13:05:01.197] Discarding dial candidate                id=bcc9348d9c122c97 ip=127.0.0.1 reason="already connected"
+TRACE[10-14|13:05:01.198] >> PING/v4                               id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:01.198] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:01.199] FINDNODE failed                          id=bcc9348d9c122c97 failcount=16 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:01.200] FINDNODE failed                          id=b1415a482a6ad369 failcount=9  dropped=false err="RPC timeout"
+TRACE[10-14|13:05:01.200] >> PING/v4                               id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:01.201] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+DEBUG[10-14|13:05:01.789] Couldn't add port mapping                proto=tcp extport=40000 intport=40000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+DEBUG[10-14|13:05:01.789] Couldn't add port mapping                proto=udp extport=40000 intport=40000 interface="UPnP or NAT-PMP" err="no UPnP or NAT-PMP router discovered"
+TRACE[10-14|13:05:02.199] >> FINDNODE/v4                           id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:02.199] >> FINDNODE/v4                           id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:02.202] >> FINDNODE/v4                           id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:02.202] >> FINDNODE/v4                           id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:02.703] FINDNODE failed                          id=bcc9348d9c122c97 failcount=17 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:02.703] FINDNODE failed                          id=b1415a482a6ad369 failcount=10 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:02.703] FINDNODE failed                          id=bcc9348d9c122c97 failcount=17 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:02.703] FINDNODE failed                          id=b1415a482a6ad369 failcount=10 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:02.703] Discarding dial candidate                id=b1415a482a6ad369 ip=127.0.0.1 reason="already connected"
+TRACE[10-14|13:05:02.703] Discarding dial candidate                id=bcc9348d9c122c97 ip=127.0.0.1 reason="already connected"
+TRACE[10-14|13:05:02.704] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:02.704] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:02.704] >> PING/v4                               id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:02.704] >> PING/v4                               id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:02.756] >> PING/v4                               id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+DEBUG[10-14|13:05:03.259] Removed dead node                        b=16 id=b1415a482a6ad369 ip=127.0.0.1 checks=0
+TRACE[10-14|13:05:03.712] >> FINDNODE/v4                           id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:03.712] >> FINDNODE/v4                           id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:03.712] >> FINDNODE/v4                           id=b1415a482a6ad369 addr=127.0.0.1:9999  err=nil
+TRACE[10-14|13:05:03.712] >> FINDNODE/v4                           id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:04.136] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:04.212] FINDNODE failed                          id=bcc9348d9c122c97 failcount=18 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:04.212] FINDNODE failed                          id=bcc9348d9c122c97 failcount=18 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:04.212] FINDNODE failed                          id=b1415a482a6ad369 failcount=11 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:04.212] FINDNODE failed                          id=b1415a482a6ad369 failcount=11 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:04.213] Discarding dial candidate                id=bcc9348d9c122c97 ip=127.0.0.1 reason="already connected"
+TRACE[10-14|13:05:04.213] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:04.213] >> PING/v4                               id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+DEBUG[10-14|13:05:04.641] Removed dead node                        b=16 id=bcc9348d9c122c97 ip=127.0.0.1 checks=0
+TRACE[10-14|13:05:05.219] >> FINDNODE/v4                           id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:05.219] >> FINDNODE/v4                           id=bcc9348d9c122c97 addr=127.0.0.1:9998  err=nil
+TRACE[10-14|13:05:05.723] FINDNODE failed                          id=bcc9348d9c122c97 failcount=19 dropped=false err="RPC timeout"
+TRACE[10-14|13:05:05.723] FINDNODE failed                          id=bcc9348d9c122c97 failcount=19 dropped=false err="RPC timeout"
+DEBUG[10-14|13:05:08.101] Served rpc_modules                       conn=127.0.0.1:62585 reqid=1 t="95.887µs"
+DEBUG[10-14|13:05:08.110] Served web3_clientVersion                conn=127.0.0.1:62585 reqid=2 t="105.461µs"
+INFO [10-14|13:05:08.112] Etherbase automatically configured       address=0xd3c1aAc031Ce92b8654C7593aC9080884Cc1E326
+DEBUG[10-14|13:05:08.112] Served eth_coinbase                      conn=127.0.0.1:62585 reqid=3 t="165.762µs"
+DEBUG[10-14|13:05:08.115] Served eth_blockNumber                   conn=127.0.0.1:62585 reqid=4 t=2.080018ms
+DEBUG[10-14|13:05:08.116] Served eth_blockNumber                   conn=127.0.0.1:62585 reqid=5 t="62.264µs"
+DEBUG[10-14|13:05:08.117] Served eth_getBlockByNumber              conn=127.0.0.1:62585 reqid=6 t="294.538µs"
+DEBUG[10-14|13:05:08.119] Served admin_datadir                     conn=127.0.0.1:62585 reqid=7 t="51.309µs"
+DEBUG[10-14|13:05:08.120] Served rpc_modules                       conn=127.0.0.1:62585 reqid=8 t="54.805µs"
+DEBUG[10-14|13:05:15.761] Served net_peerCount                     conn=127.0.0.1:62585 reqid=9 t="133.095µs"
+DEBUG[10-14|13:05:19.540] Recalculated downloader QoS values       rtt=20s confidence=0.750 ttl=1m0s
+INFO [10-14|13:05:34.697] Looking for peers                        peercount=2 tried=2 static=0
+DEBUG[10-14|13:05:39.541] Recalculated downloader QoS values       rtt=20s confidence=0.875 ttl=1m0s
+DEBUG[10-14|13:05:59.526] Current full block not old enough        number=0 hash="607eab…d94888" delay=90000
+DEBUG[10-14|13:05:59.542] Recalculated downloader QoS values       rtt=20s confidence=0.938 ttl=1m0s
+DEBUG[10-14|13:06:19.544] Recalculated downloader QoS values       rtt=20s confidence=0.969 ttl=1m0s
+DEBUG[10-14|13:06:39.548] Recalculated downloader QoS values       rtt=20s confidence=0.984 ttl=1m0s
+DEBUG[10-14|13:06:59.526] Current full block not old enough        number=0 hash="607eab…d94888" delay=90000
+DEBUG[10-14|13:06:59.550] Recalculated downloader QoS values       rtt=20s confidence=0.992 ttl=1m0s
+DEBUG[10-14|13:07:19.550] Recalculated downloader QoS values       rtt=20s confidence=0.996 ttl=1m0s
+DEBUG[10-14|13:07:39.555] Recalculated downloader QoS values       rtt=20s confidence=0.998 ttl=1m0s
+DEBUG[10-14|13:07:59.528] Current full block not old enough        number=0 hash="607eab…d94888" delay=90000
+DEBUG[10-14|13:07:59.555] Recalculated downloader QoS values       rtt=20s confidence=0.999 ttl=1m0s
+DEBUG[10-14|13:08:19.557] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-14|13:08:39.561] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-14|13:08:59.531] Current full block not old enough        number=0 hash="607eab…d94888" delay=90000
+DEBUG[10-14|13:08:59.564] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
+DEBUG[10-14|13:09:19.564] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s
