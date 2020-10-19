@@ -5,7 +5,7 @@ This repository contains a set of examples created using the Quorum framework.
 
 ## How to setup DEVENV ##
 
-### MacOS instructions ###
+### MacOS or Linux instructions ###
 
 #### Install brew ####
 ```console
